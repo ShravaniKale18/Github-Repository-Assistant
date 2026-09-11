@@ -800,8 +800,12 @@ if analyze:
 
                 st.write("Building vector database...")
 
+                # Create a unique name for this repository
+                repo_name = repo.full_name.replace("/", "_")
+
                 vectorstore = create_vector_store(
-                    chunks
+                    chunks,
+                    repo_name
                 )
 
                 retriever = create_retriever(
