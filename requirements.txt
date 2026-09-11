@@ -1,0 +1,24 @@
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+langchain_huggingface
+sentence-transformers
+
+# GitHub API
+PyGithub
+
+# RAG / Vector Database
+chromadb
+langchain-chroma
+
+# Environment variables
+python-dotenv
+
+# Web UI
+streamlit
+
+# Optional: tokenization
+tiktoken
+
