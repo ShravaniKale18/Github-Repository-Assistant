@@ -6,7 +6,7 @@ GitHub Repository Assistant is an AI-powered **Retrieval-Augmented Generation (R
 
 Instead of manually searching through multiple files, users can provide a GitHub repository URL and ask questions such as:
 
-* What does this project do?
+* What does this project do? 
 * How does a particular function work?
 * Which technologies are used?
 * Explain this file.
